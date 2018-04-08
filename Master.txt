@@ -1,4 +1,5 @@
 
-<Version: 1.04>
+<Version: 1.05>
 /data/Map002.json https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/Map003.json
 <End of Version>

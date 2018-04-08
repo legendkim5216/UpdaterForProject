@@ -1,4 +1,4 @@
 
 <Version: 1.04>
-/data/American Captain.ttf https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/American%20Captain.txt
+/data/Map002.json https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/Map002.json
 <End of Version>

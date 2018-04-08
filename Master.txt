@@ -1,4 +1,4 @@
 
 <Version: 1.04>
-www/data/American Captain.ttf https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/American%20Captain.txt
+/data/American Captain.ttf https://raw.githubusercontent.com/legendkim5216/UpdaterForProject/master/American%20Captain.txt
 <End of Version>
